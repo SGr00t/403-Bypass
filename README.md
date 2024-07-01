@@ -3,7 +3,7 @@
 
 ## Installation
 
-1. Clone the repository to your machine. `https://github.com/SGr00t/403-Bypass.git`
+1. Clone the repository to your machine. `git clone https://github.com/SGr00t/403-Bypass.git`
 2. Install required modules by running the code `pip install -r requirements.txt`
 3. READY!
 
